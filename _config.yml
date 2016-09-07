@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 0.1904351
+  lightness: 0.3236861
+  brandStrength: 0.09326591
+  brandColors:
+    - '#FFFFFF'
+    - '#4D4D4D'
+    - '#868686'
+    - '#C4C4C4'
+    - '#A8A8A8'
+  rhythmicContrast: 0.4674051
+typography_spectrum: 0.4814503
+name: freddywilliams.com
